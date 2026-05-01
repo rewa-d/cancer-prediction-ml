@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+tf_env/
+cancer_env/
+.venv/
+env/
+
+# Mac system files
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (large files)
+dataset/
+Blood_Cancer_Dataset/
+*.csv
+
+# Models
+*.h5
+*.pkl
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
