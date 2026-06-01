@@ -77,13 +77,12 @@ cancer-detection-machine-learning/
 │   ├── LungCancer.ipynb
 │   ├── app_CSV.py
 │   ├── survey_lung_cancer.csv
+│   ├──screenshots/
+│       └── 01_home_page.png
+│       └── 02_negative_prediction.png
+│       └── 03_positive_prediction.png
 │   └── templates/
 │       └── index.html
-│
-├── screenshots/
-│   ├── BloodCancer.ipynb
-│   ├── app_IMG.py
-│   └── dataset/ 
 ├── requirements.txt
 └── README.md
 
